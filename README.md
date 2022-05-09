@@ -1,4 +1,4 @@
-## 2022 IVPG Lab Paper Review Seminar
+## 2022 IVPG Lab Seminar
 
 |Date|Paper|Review|
 |:--:|:--:|:--:|
