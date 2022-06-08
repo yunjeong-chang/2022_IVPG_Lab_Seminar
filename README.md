@@ -9,5 +9,5 @@
 |05/11|[YOLOv3 Github](https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3)|[YOLOv3 code Review (training)](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/PaperReview/YOLOv3_code(05.11).pdf)<br>[YOLOv3 code (training)](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/code/YOLOv3_training(0511).ipynb)|
 |05/18|[YOLOv4](https://arxiv.org/pdf/2004.10934.pdf)|[YOLOv4 Review(1)](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/PaperReview/YOLOv4(05.18).pdf)|
 |05/25|[YOLOv4](https://arxiv.org/pdf/2004.10934.pdf)|[YOLOv4 Review(2)](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/PaperReview/YOLOv4(05.25).pdf)|
-|06/08|[YOLOv4 Github](https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3)|[YOLOv4 code Review]()|
+|06/08|[YOLOv4 Github](https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3)|[YOLOv4 code Review](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/PaperReview/YOLOv4(06.05).pdf)<br>[YOLOv4 code]()|
 
