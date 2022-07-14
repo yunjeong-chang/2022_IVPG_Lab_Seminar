@@ -11,3 +11,7 @@
 |05/25|[YOLOv4](https://arxiv.org/pdf/2004.10934.pdf)|[YOLOv4 Review(2)](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/PaperReview/YOLOv4(05.25).pdf)|
 |06/08|[YOLOv4 Github](https://github.com/pythonlessons/TensorFlow-2.x-YOLOv3)|[YOLOv4 code Review](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/PaperReview/YOLOv4(06.05).pdf)<br>[YOLOv4 code](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/code/YOLOv4(0601).ipynb)|
 
+|Date|Contents|PPT|
+|:--:|:--:|:--:|
+|07/06<br>07/13|검출기 응용을 위한 주제 선정|[발표자료]()|
+
