@@ -13,5 +13,5 @@
 
 |Date|Contents|PPT|
 |:--:|:--:|:--:|
-|07/06<br>07/13|검출기 응용을 위한 주제 선정|[발표자료]()|
+|07/06<br>07/13|검출기 응용을 위한 주제 선정|[👩🏻‍🏫](https://github.com/yunjeong-chang/2022_IVPG_Lab_Seminar/blob/main/Parking%20Slot%20Detection/07.13_YOLOv4_%E1%84%8C%E1%85%AE%E1%84%8C%E1%85%A6%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%BC.pdf)|
 
